@@ -1,0 +1,4 @@
+[2024-04-26T16:04:54.546] [ERROR] errors - insertUsersql: insert into users (username, password, name, account_id,accessible_accounts_ids, created_at, created_by_id) 
+                values ("test", "$2b$10$B9QeWy2dz3h8oV.itg4uceCO2.Q4k3zah3ACUxgM/p3EnyymwtePm", "test name", "0",null, "24-04-26 16:04:54",1);
+                
+[2024-04-26T16:04:54.548] [ERROR] errors - insertUser: Error: ER_BAD_FIELD_ERROR: Unknown column 'account_id' in 'field list'
