@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\ASUS\StudioProjects\disease prediction FLASK\venv"
+VIRTUAL_ENV="C:\Users\ASUS\StudioProjects\abudy_complete\src\api\flask\FlaskPart\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
